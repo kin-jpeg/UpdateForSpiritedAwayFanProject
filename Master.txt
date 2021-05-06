@@ -17,3 +17,8 @@
 <Version: 1.05>
 /data/Map022.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map022.json
 <End of Version>
+
+<Version: 1.06>
+/data/Map014.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map014.json
+/data/Map013.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map013.json
+<End of Version>
