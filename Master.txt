@@ -38,4 +38,11 @@
 /data/Map026.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map026.json
 /data/Map027.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map027.json
 /data/Map028.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map028.json
+/img/characters/Haku Damage.png https://i.imgur.com/fQmIWWi.png
+/img/characters/Haku Walk.png https://i.imgur.com/D7FzQsM.png
+/img/faces/Haku Angry.png https://i.imgur.com/f56ts79.png
+/img/faces/Haku Mouth Open.png https://i.imgur.com/tQINkpE.png
+/img/faces/Haku Normal.png https://i.imgur.com/PheBiDu.png
+/img/faces/Haku Serious.png https://i.imgur.com/c8jWL36.png
+/img/sv_actors/Haku Battler.png https://i.imgur.com/vDKQbCm.png
 <End of Version>
