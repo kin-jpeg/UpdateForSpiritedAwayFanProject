@@ -22,3 +22,27 @@
 /data/Map014.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map014.json
 /data/Map013.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map013.json
 <End of Version>
+
+<Version: 1.10>
+/data/Map012.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map012.json
+/data/Map003.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map003.json
+/data/Map016.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map016.json
+/data/Map017.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map017.json
+/data/Map021.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map021.json
+/data/Map014.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map014.json
+/data/Map015.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map015.json
+/data/Map022.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map022.json
+/data/Map023.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map023.json
+/data/Map024.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map024.json
+/data/Map025.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map025.json
+/data/Map026.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map026.json
+/data/Map027.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map027.json
+/data/Map028.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main1/Map028.json
+/img/characters/Haku Damage.png https://i.imgur.com/fQmIWWi.png
+/img/characters/Haku Walk.png https://i.imgur.com/D7FzQsM.png
+/img/faces/Haku Angry.png https://i.imgur.com/f56ts79.png
+/img/faces/Haku Mouth Open.png https://i.imgur.com/tQINkpE.png
+/img/faces/Haku Normal.png https://i.imgur.com/PheBiDu.png
+/img/faces/Haku Serious.png https://i.imgur.com/c8jWL36.png
+/img/sv_actors/Haku Battler.png https://i.imgur.com/vDKQbCm.png
+<End of Version>
