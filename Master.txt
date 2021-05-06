@@ -1,4 +1,3 @@
 <Version: 1.02>
-Fixed issues regarding the second puzzle. Fixed switch mechanism as if you said no nothing would happen. Looped this to fix issue in regards to this.
 /data/Map015.json https://raw.githubusercontent.com/kin-jpeg/UpdateForSpiritedAwayFanProject/main/Map015.json
 <End of Version>
